@@ -14,7 +14,7 @@ body {
   width: 800px;
   background-color: #F0E8C2;
   border-radius: 24px;
-  margin: 48px auto;
+  margin: 48px auto 28px;
 }
 img {
   border-radius: 16px;
@@ -41,4 +41,9 @@ h1, h2 {
 }
 ul {
   padding: 12px;
+}
+footer{
+  color: rgb(40, 44, 47);
+  text-align: center;
+  padding-bottom: 48px;
 }
