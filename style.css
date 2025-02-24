@@ -1,17 +1,13 @@
 body {
-  background-image: url(assets/bg-image.png);
-  background-size: cover; /*This will make the image cover the entire screen*/
+  background-image: url(assets/bg-image.jpg);
 }
 #page {
   box-sizing: border-box;
   padding: 24px;
   width: 800px;
-  height: 1440px;
-  background-color: F0E8C2;
+  background-color: #F0E8C2;
   border-radius: 24px;
   margin: 48px auto;
-}
-
-img {
+}img {
   border-radius: 16px;
 }
